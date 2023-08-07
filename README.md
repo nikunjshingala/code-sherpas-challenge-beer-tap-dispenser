@@ -12,8 +12,8 @@ Note: Ensure that Node.js and MongoDB are installed, and their services are runn
 
 ### Step to Start Project
 
-1. Replace git clone url
-2. cd folder name
+1. git clone https://github.com/nikunjshingala/code-sherpas-challenge-beer-tap-dispenser.git
+2. cd code-sherpas-challenge-beer-tap-dispenser
 3. npm i
 4. npm run start
 
