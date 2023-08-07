@@ -1,6 +1,6 @@
 # Project Title
 
-product-developer-challenge_beer-tap-dispenser
+challenge-beer-tap-dispenser
 
 ## Technology Which I Used
 
